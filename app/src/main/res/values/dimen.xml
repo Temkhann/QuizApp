@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--main padding of application-->
+    <dimen name="item">6dp</dimen>
+    <dimen name="text_size_question">16sp</dimen>
+    <dimen name="text_size_result">24sp</dimen>
+    <dimen name="main_space">16dp</dimen>
+    <dimen name="end_margin">32dp</dimen>
+</resources>

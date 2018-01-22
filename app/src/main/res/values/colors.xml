@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="main_color">#161A50</color>
+    <color name="secondary_color">#3F51B5</color>
+    <color name="transition_font">#B3B4C0</color>
+    <color name="question_number">#FFFFFF</color>
+    <color name="question_text">#000000</color>
+    <color name="text_result">#000000</color>
+    <color name="right_answer">#33FF42</color>
+    <color name="wrong_answer">#C83232</color>
+</resources>
